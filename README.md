@@ -30,7 +30,7 @@ O projeto é dividido em duas partes principais:
 Pré-requisitos: Precisas de ter o Java JDK instalado na tua máquina.
 
 1. Clona este repositório:
-   git clone https://github.com/vvankxs7/NOME_DO_REPOSITORIO.git
+   git clone https://github.com/vvankxs7/Cliente-OrdemCrescente).git
 
 2. Abre o terminal na pasta onde os arquivos estão localizados.
 
