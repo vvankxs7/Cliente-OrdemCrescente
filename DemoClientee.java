@@ -13,7 +13,7 @@ public class DemoClientee {
         float m;
 
         System.out.print("\nEntre com o número de clientes: ");
-        n = sc.nextInt();//lê um número inteiro do teclado
+        n = sc.nextInt();
 
         c = new Cliente[n];
 
@@ -62,6 +62,5 @@ public class DemoClientee {
 
         System.out.print("\n\n");
        
-    }//fim do método main
-}//fim da classe
-Adicionar comentári
+    }
+}
